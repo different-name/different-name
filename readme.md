@@ -6,6 +6,8 @@ My hobbies include 3D modelling, playing online games, and experimenting with *(
 
 Want to know more about me? Check out my [/about/](https://different-name.dev/about) page
 
+New! Check out [my things on thingiverse](https://www.thingiverse.com/different-name/designs)
+
 #### Contact
 
 Send me an email! `hello [at] different-name.dev`
